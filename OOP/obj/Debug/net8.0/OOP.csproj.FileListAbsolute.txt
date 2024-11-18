@@ -1,0 +1,264 @@
+C:\Users\Jasz\source\repos\OOP\OOP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jasz\source\repos\OOP\OOP\bin\Debug\net8.0\appsettings.json
+C:\Users\Jasz\source\repos\OOP\OOP\bin\Debug\net8.0\OOP.exe
+C:\Users\Jasz\source\repos\OOP\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\Users\Jasz\source\repos\OOP\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+C:\Users\Jasz\source\repos\OOP\OOP\bin\Debug\net8.0\OOP.dll
+C:\Users\Jasz\source\repos\OOP\OOP\bin\Debug\net8.0\OOP.pdb
+C:\Users\Jasz\source\repos\OOP\OOP\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Jasz\source\repos\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jasz\source\repos\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jasz\source\repos\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.csproj.AssemblyReference.cache
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.OOP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.build.OOP.props
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OOP.props
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OOP.props
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\scopedcss\bundle\OOP.styles.css
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.csproj.Up2Date
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.dll
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\refint\OOP.dll
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.pdb
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\Users\Jasz\source\repos\OOP\OOP\obj\Debug\net8.0\ref\OOP.dll
+D:\OOP\OOP\bin\Debug\net8.0\appsettings.Development.json
+D:\OOP\OOP\bin\Debug\net8.0\appsettings.json
+D:\OOP\OOP\bin\Debug\net8.0\OOP.exe
+D:\OOP\OOP\bin\Debug\net8.0\OOP.deps.json
+D:\OOP\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+D:\OOP\OOP\bin\Debug\net8.0\OOP.dll
+D:\OOP\OOP\bin\Debug\net8.0\OOP.pdb
+D:\OOP\OOP\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OOP\OOP\obj\Debug\net8.0\OOP.csproj.AssemblyReference.cache
+D:\OOP\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+D:\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+D:\OOP\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+D:\OOP\OOP\obj\Debug\net8.0\OOP.MvcApplicationPartsAssemblyInfo.cs
+D:\OOP\OOP\obj\Debug\net8.0\OOP.MvcApplicationPartsAssemblyInfo.cache
+D:\OOP\OOP\obj\Debug\net8.0\staticwebassets.build.json
+D:\OOP\OOP\obj\Debug\net8.0\staticwebassets.development.json
+D:\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.OOP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.build.OOP.props
+D:\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OOP.props
+D:\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OOP.props
+D:\OOP\OOP\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OOP\OOP\obj\Debug\net8.0\scopedcss\bundle\OOP.styles.css
+D:\OOP\OOP\obj\Debug\net8.0\OOP.csproj.Up2Date
+D:\OOP\OOP\obj\Debug\net8.0\OOP.dll
+D:\OOP\OOP\obj\Debug\net8.0\refint\OOP.dll
+D:\OOP\OOP\obj\Debug\net8.0\OOP.pdb
+D:\OOP\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+D:\OOP\OOP\obj\Debug\net8.0\ref\OOP.dll
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\appsettings.Development.json
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\appsettings.json
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\OOP.exe
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\OOP.dll
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\OOP.pdb
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\OOP.csproj.AssemblyReference.cache
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\OOP.MvcApplicationPartsAssemblyInfo.cs
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\OOP.MvcApplicationPartsAssemblyInfo.cache
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.OOP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.build.OOP.props
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OOP.props
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OOP.props
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\scopedcss\bundle\OOP.styles.css
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\OOP.csproj.Up2Date
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\OOP.dll
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\refint\OOP.dll
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\OOP.pdb
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\Second Year IT\First Sem\Object Oriented Programming\OOP\OOP\obj\Debug\net8.0\ref\OOP.dll
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\appsettings.Development.json
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\appsettings.json
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\OOP.exe
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\OOP.dll
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\OOP.pdb
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.csproj.AssemblyReference.cache
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.MvcApplicationPartsAssemblyInfo.cs
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.MvcApplicationPartsAssemblyInfo.cache
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\staticwebassets.build.json
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\staticwebassets.development.json
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.OOP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.build.OOP.props
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OOP.props
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OOP.props
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\scopedcss\bundle\OOP.styles.css
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.csproj.Up2Date
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.dll
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\refint\OOP.dll
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.pdb
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\SIR SALIGUE LAB\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\ref\OOP.dll
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\appsettings.Development.json
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\appsettings.json
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\OOP.exe
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\OOP.dll
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\OOP.pdb
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Miones_SirSaligue\OOP\OOP\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.csproj.AssemblyReference.cache
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.MvcApplicationPartsAssemblyInfo.cs
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.MvcApplicationPartsAssemblyInfo.cache
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.OOP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.build.OOP.props
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OOP.props
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OOP.props
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\scopedcss\bundle\OOP.styles.css
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.csproj.Up2Date
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.dll
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\refint\OOP.dll
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.pdb
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\Miones_SirSaligue\OOP\OOP\obj\Debug\net8.0\ref\OOP.dll
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\appsettings.Development.json
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\appsettings.json
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\OOP.exe
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\OOP.dll
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\OOP.pdb
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Miones_SirSaligue - Copy\OOP\OOP\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\OOP.csproj.AssemblyReference.cache
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\OOP.MvcApplicationPartsAssemblyInfo.cs
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\OOP.MvcApplicationPartsAssemblyInfo.cache
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.OOP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.build.OOP.props
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OOP.props
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OOP.props
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\scopedcss\bundle\OOP.styles.css
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\OOP.csproj.Up2Date
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\OOP.dll
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\refint\OOP.dll
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\OOP.pdb
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\Miones_SirSaligue - Copy\OOP\OOP\obj\Debug\net8.0\ref\OOP.dll
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\appsettings.Development.json
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\appsettings.json
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\OOP.exe
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\OOP.dll
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\OOP.pdb
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ANA MARIE OOP\OOP\OOP\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\OOP.csproj.AssemblyReference.cache
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\OOP.MvcApplicationPartsAssemblyInfo.cs
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\OOP.MvcApplicationPartsAssemblyInfo.cache
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\staticwebassets.build.json
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\staticwebassets.development.json
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.OOP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.build.OOP.props
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OOP.props
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OOP.props
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\scopedcss\bundle\OOP.styles.css
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\OOP.csproj.Up2Date
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\OOP.dll
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\refint\OOP.dll
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\OOP.pdb
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\ANA MARIE OOP\OOP\OOP\obj\Debug\net8.0\ref\OOP.dll
